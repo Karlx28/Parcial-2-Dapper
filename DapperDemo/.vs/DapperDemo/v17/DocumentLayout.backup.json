@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\kxrmm\\downloads\\parcial_2\\dapperdemo\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\accesodatos\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|c:\\users\\kxrmm\\downloads\\parcial-2\\dapperdemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{53BC8B6B-045B-4B45-8816-467CEF60E307}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\accesodatos\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FEC69-8781-4703-8D69-6DFD17AAEC82}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\Form1.cs",
+              "RelativeToolTip": "DapperDemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:26:20.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\AccesoDatos\\DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\DataBase.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\DataBase.cs",
-              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\AccesoDatos\\DataBase.cs",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\DataBase.cs",
               "RelativeToolTip": "AccesoDatos\\DataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T16:59:16.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\App.config",
+              "RelativeDocumentMoniker": "DapperDemo\\App.config",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\App.config",
+              "RelativeToolTip": "DapperDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-13T16:58:14.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\SuppliersRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\SuppliersRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\SuppliersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:14:46.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\Suppliers.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\AccesoDatos\\Suppliers.cs",
+              "RelativeToolTip": "AccesoDatos\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:12:12.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\DapperDemo\\App.config",
-              "RelativeDocumentMoniker": "DapperDemo\\App.config",
-              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\DapperDemo\\App.config",
-              "RelativeToolTip": "DapperDemo\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-13T16:58:14.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\DapperDemo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\Form1.cs",
               "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
-              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial_2\\DapperDemo\\DapperDemo\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\Parcial-2\\DapperDemo\\DapperDemo\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "DapperDemo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:56:50.045Z"
+              "WhenOpened": "2024-10-13T16:56:50.045Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
